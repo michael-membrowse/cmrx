@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sched_5fmicrotime_0',['sched_microtime',['../group__os__sched.html#ga6611cb1ff80f54abebb06a818d0a1ce2',1,'sched.c']]],
+  ['sched_5fthread_1',['sched_thread',['../structArch__State__t.html#ab8b71a1cc792a6c50c15fc5f9b0857e3',1,'Arch_State_t']]],
+  ['sched_5fthread_5fid_2',['sched_thread_id',['../structArch__State__t.html#a2bf7d26220c2bde068cf67f469a3082e',1,'Arch_State_t']]],
+  ['sched_5ftick_5fincrement_3',['sched_tick_increment',['../group__os__sched.html#ga575ede15b4fe0a42c29b7167d0822745',1,'sched.c']]],
+  ['send_4',['send',['../structQueueInterface.html#a4ff121beeea33992a2e1eebab4a65a72',1,'QueueInterface']]],
+  ['set_5fnotify_5',['set_notify',['../structComSourceVMT.html#aca6266264577e2f6e2c8e6dfcacc461e',1,'ComSourceVMT::set_notify'],['../structComChannelVMT.html#a12120a6d16294b9092756a5dfa3623c0',1,'ComChannelVMT::set_notify']]],
+  ['signal_5fhandler_6',['signal_handler',['../structOS__thread__t.html#a6e3cdaf8f549f44f9dbbb9450c00fe67',1,'OS_thread_t']]],
+  ['signals_7',['signals',['../structOS__thread__t.html#a07cea510f30eafa336c112e630cb2542',1,'OS_thread_t']]],
+  ['sleep_5ffrom_8',['sleep_from',['../structTimerEntry__t.html#a95a419fabe89c0d94edd540788e48e96',1,'TimerEntry_t']]],
+  ['sleepers_9',['sleepers',['../group__os__timer.html#gaa0e811d6349480297cbad82c700077de',1,'timer.c']]],
+  ['sp_10',['sp',['../structOS__thread__t.html#a402b571dc6672000a6f56eccff94b78e',1,'OS_thread_t']]],
+  ['stack_5fid_11',['stack_id',['../structOS__thread__t.html#a7ea5132f358b5e6003cf6c480b1f9177',1,'OS_thread_t']]],
+  ['stacks_12',['stacks',['../structOS__stack__t.html#ac64b6bed80c0329e43aba6903453ed95',1,'OS_stack_t']]],
+  ['start_13',['start',['../structOS__MPU__region.html#a0642cc60aaf53cce8d66b4070802b19e',1,'OS_MPU_region']]],
+  ['state_14',['state',['../structOS__thread__t.html#a3316dfeb2de5d7b03f7e0f6842f7c256',1,'OS_thread_t::state'],['../structfutex__t.html#acf924c6402369f5b0479148d65d9a306',1,'futex_t::state']]],
+  ['syscall_15',['syscall',['../structArch__State__t.html#a18857e0041e85531b72310430a7c3e4f',1,'Arch_State_t']]],
+  ['syscall_5fid_16',['syscall_id',['../structsyscall__dispatch__t.html#aee4d642b9d3ab8ca615b720b24b95755',1,'syscall_dispatch_t']]],
+  ['syscalls_17',['syscalls',['../group__arch__linux__impl.html#ga2270ed6c370218d82eed7be5845f1718',1,'posix.c']]],
+  ['syscalls_5fcount_18',['syscalls_count',['../group__arch__linux__impl.html#ga18ed810d4a83aa447a3c4b2a1842de62',1,'posix.c']]]
+];
